@@ -1,0 +1,119 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+.heading{
+    color: black;
+    display: inline-block;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.menu{
+    color: black;
+    display: inline-block;
+    width: 85%;
+    text-align: right;
+}
+a{
+    display: inline-block;
+    padding: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.starting{
+    color: black;
+    padding-left: 120px;
+}
+.fun{
+    text-align: left;
+    padding-top: 80px;
+    width: 50%;
+    margin-top: -35%;
+}
+.explore{
+    font-size: 3rem;
+    padding: 10px 0px;
+}
+button{
+    display: block;
+    color: gray;
+    background-color: black;
+    padding: 10px 30px;
+    font-size: large;
+    cursor: pointer;
+}
+.image{
+    text-align: right;
+    width: 60%;
+    margin-left: 40%;
+}
+select{
+    width: 90%;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+span{
+    font-weight: bolder;
+}
+.middle{
+    padding: 80px;
+    color: black;
+}
+table{
+    color: black;
+}
+.head{
+    font-size: 2.2rem;
+    padding: 10px 0;
+    font-weight: lighter;
+}
+.sub{
+    font-weight: bolder;
+    padding: 5px 0;
+}
+.con{
+    padding: 15px 0;
+    font-size: 1.25rem;
+}
+.c2{
+    padding-left: 20px;
+}
+.c3{
+    padding-left: 20px;
+}
+.img1{
+    width: 100%;
+    margin-top: 60px;
+}
+.middle h3{
+    font-size: 2.5rem;
+}
+.contact{
+    padding: 50px 30%;
+    background-color: rgb(213, 209, 209);
+}
+.Chead{
+    color: black;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.text{
+    color: black;
+}
+.contact form p{
+    color: black;
+    font-weight: bold;
+}
+form{
+    padding-top: 20px;
+}
+input{
+    padding: 15px;
+    width: 90%;
+}
